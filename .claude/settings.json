@@ -5,6 +5,6 @@
     }
   },
   "enabledPlugins": {
-    "catppuccin-macchiato-desktop@claude-mods": true
+    "catppuccin-mocha-desktop@claude-mods": true
   }
 }
